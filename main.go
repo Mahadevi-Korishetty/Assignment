@@ -8,4 +8,5 @@ func main() {
 	fmt.Printf("Local commit-2")
 	fmt.Printf("Local commit-3")
 	fmt.Printf("Local commit-4")
+	fmt.Printf("Reomte commit")
 }
