@@ -7,6 +7,7 @@ func main() {
 	fmt.Printf("Local commit-1")
 	fmt.Printf("Local commit-2")
 	fmt.Printf("Local commit-3")
-	fmt.Printf("Local commit-4")
+	fmt.Printf("trying ti squash")
 	fmt.Printf("Reomte commit")
+	fmt.Printf("Local commit")
 }
